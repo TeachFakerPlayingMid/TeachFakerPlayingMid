@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to a internship related to **Business analyst, Machine Learninging, Consulting**
 
-- 💬 Highlight of my projects are about **Database construction,Software development ,Applied Machine Learning and AI algorithm in business context**
+- 💬 Highlight of my projects are about **Database construction and Management,Software development ,Applied Machine Learning and AI algorithm in business context, such as Restaurant Recommendation System， Lyft Bikes Placement, Sentiment Analysis, Predictive Model**
 
 - 📫 How to reach me **yusen.tang@mail.mcgill.ca**
 
-- ⚡ Fun fact **Avid soccer fans, are trying to use machine learning for amateur football**
+- ⚡ Fun fact **I am a avid soccer fans, are trying to use machine learning for amateur football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
