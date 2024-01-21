@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yusen Tang</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
-- 🔭 I’m currently enrolled **Master's of Management in Analytics @ McGill University**
+- 🔭 I’m currently enrolled **Master's of Management in Analytics @ McGill University**, I also studied in McGill University for bachelor's degree, majoring in computer science.
 
 - 🌱 I’m currently learning **Nature Language Processing, Enterprise in Machine Learning Production**
 
