@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Nature Language Processing, Enterprise in Machine Learning Production**
 
-- 👯 I’m looking for a internship related to **Business analyst, Machine Learninging, Consulting**
+- 👯 I’m looking for a internship related to **Data Scientist, Artificial Intelligence, Business analyst, NLP, LLP Agent, Machine Learninging, Consulting**
 
-- 💬 Highlight of my projects are about **Database construction and Management,Software development ,Applied Machine Learning and AI algorithm in business context, such as Restaurant Recommendation System, Lyft Bikes Placement, Sentiment Analysis, Predictive Model**
+- 💬 Highlight of my projects are about **Database construction and Management, Software development, LLM Agent Based on RAG algorithm, Applied Machine Learning and AI algorithm in business context, such as Restaurant Recommendation System, Lyft Bikes Placement, Sentiment Analysis, Predictive Model**
 
 - 📫 How to reach me **yusen.tang@mail.mcgill.ca**
 
